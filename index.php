@@ -29,7 +29,7 @@ include 'lib_functions.php';
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>                        
 	  </button>
-	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/new_font.png" style="width:225px;" /></a>
+	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/company_logo.png" style="width:225px;" /></a>
 	</div>
 	<div class="collapse navbar-collapse" id="myNavbar">
 	  <ul class="nav navbar-nav">
@@ -58,7 +58,7 @@ include 'lib_functions.php';
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-         <img src="imgs/cupcakes2.jpg" style="width:1400px; height:400px;" alt="Image">
+         <img src="imgs/home_pics/cupcakes2.jpg" style="width:1400px; height:400px;" alt="Image">
         <div class="carousel-caption">
           <!--
 		  <h3>Sell $</h3>
@@ -68,7 +68,7 @@ include 'lib_functions.php';
       </div>
 
       <div class="item">
-        <img src="imgs/cupcakes1.jpg" style="width:1400px; height:400px;" alt="Image">
+        <img src="imgs/home_pics/cupcakes1.jpg" style="width:1400px; height:400px;" alt="Image">
         <div class="carousel-caption">
            <!--<h3>More Sell $</h3>
           <p>Lorem ipsum...</p>

@@ -30,7 +30,7 @@ include 'lib_functions.php';
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>                        
 	  </button>
-	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/new_font.png" style="width:225px;" /></a>
+	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/company_logo.png" style="width:225px;" /></a>
 	</div>
 	<div class="collapse navbar-collapse" id="myNavbar">
 	  <ul class="nav navbar-nav">
@@ -49,57 +49,114 @@ include 'lib_functions.php';
   </div>
 </nav>
 
-   
-<div class="album text-muted">    
  
-  <div class="row">
-		<div class="col-sm-4">
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>  
-		</div>
-	
-	</div><br>
-	
-	<div class="row">
-		<div class="col-sm-4">
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>  
-		</div>
-	
-	</div><br>
-	
-	<div class="row">
-		<div class="col-sm-4">
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>
-		</div>
-		<div class="col-sm-4"> 
-		  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-		  <p>stuff</p>  
-		</div>
-	
-	</div><br>
-</div>	
+<div class="container marketing">
+	<div class="album text-muted">    
+	 
+	<br>
+	  <div class="row">
+			<div class="col-sm-4">
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image1.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image3.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image4.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+		
+		</div><br>
+		
+		<div class="row">
+			<div class="col-sm-4">
+			  <a href="product_page.php">
+					<img src="imgs/gallery_pics/image5.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+			 <a href="product_page.php">
+					<img src="imgs/gallery_pics/image6.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+			  <a href="product_page.php">
+					<img src="imgs/gallery_pics/image7.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+		
+		</div><br>
+		
+		<div class="row">
+			<div class="col-sm-4">
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image8.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image9.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+		
+		</div><br>
+		
+		<div class="row">
+			<div class="col-sm-4">
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<!--
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			<div class="col-sm-4"> 
+				<a href="product_page.php">
+					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<p>Cakes</p>
+					<p>stuff about the thing</p>
+				</a>
+			</div>
+			-->
+		
+		</div><br>
+	</div>	
+</div>
 
 <?php
 

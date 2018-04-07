@@ -28,7 +28,7 @@ include 'lib_functions.php';
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>                        
 	  </button>
-	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/new_font.png" style="width:225px;" /></a>
+	  <a class="navbar-brand" href="index.php" style="padding:5px;"><img src="imgs/company_logo.png" style="width:225px;" /></a>
 	</div>
 	<div class="collapse navbar-collapse" id="myNavbar">
 	  <ul class="nav navbar-nav">
