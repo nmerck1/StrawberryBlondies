@@ -59,7 +59,7 @@ include 'lib_functions.php';
 			<div class="col-sm-4">
 				<a href="product_page.php">
 					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-					<p>stuff</p>
+					<p>Cakes</p>
 					<p>stuff about the thing</p>
 				</a>
 			</div>
