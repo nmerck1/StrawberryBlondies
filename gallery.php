@@ -56,103 +56,58 @@ include 'lib_functions.php';
 	<br>
 	  <div class="row">
 			<div class="col-sm-4">
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image1.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+			
 			</div>
 			<div class="col-sm-4"> 
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image3.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
 			<div class="col-sm-4"> 
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image4.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
 		
 		</div><br>
 		
 		<div class="row">
 			<div class="col-sm-4">
-			  <a href="product_page.php">
 					<img src="imgs/gallery_pics/image5.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+			
 			</div>
 			<div class="col-sm-4"> 
-			 <a href="product_page.php">
 					<img src="imgs/gallery_pics/image6.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
 			<div class="col-sm-4"> 
-			  <a href="product_page.php">
 					<img src="imgs/gallery_pics/image7.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
 		
 		</div><br>
 		
 		<div class="row">
 			<div class="col-sm-4">
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image8.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+				
 			</div>
 			<div class="col-sm-4"> 
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image9.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
 			<div class="col-sm-4"> 
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+				
 			</div>
 		
 		</div><br>
 		
 		<div class="row">
 			<div class="col-sm-4">
-				<a href="product_page.php">
 					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+					
 			</div>
-			<!--
-			<div class="col-sm-4"> 
-				<a href="product_page.php">
-					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
-			</div>
-			<div class="col-sm-4"> 
-				<a href="product_page.php">
-					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
-			</div>
-			-->
+			
 		
 		</div><br>
 	</div>	
