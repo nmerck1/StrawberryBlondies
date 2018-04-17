@@ -59,7 +59,7 @@ include 'lib_functions.php';
 	<div class="row">
 	
         <div class="col-lg-6">
-          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="300" height="300">
+          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="300" height="300" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
           <h2>Marie</h2>
           <p> stuff about person blahblahblah blahblahblahblahblahblahblahblahblah blahblahblahblahblah</p>
 		  <!--
@@ -67,7 +67,7 @@ include 'lib_functions.php';
 		  -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-6">
-          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="300" height="300">
+          <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="300" height="300" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
           <h2>Anna</h2>
           <p> stuff about person blahblahblahblahblahblah blahblahblahblahblah blahblahblahblahblahblah</p>
 		  <!--

@@ -15,6 +15,20 @@ include 'lib_functions.php';
 		import_css_styles();
 		google_fonts();
 	?>
+	
+	<script type="text/javascript">
+	
+		function get_product_page(name){
+			
+			$.ajax({url: "product_page.php", success: function(result){
+				$("#div1").html(result);
+			}});
+		}
+	
+	
+	
+	</script>
+	
 </head>
 
 
@@ -57,52 +71,78 @@ include 'lib_functions.php';
 	<br>
 	  <div class="row">
 			<div class="col-sm-4">
-				<a href="product_page.php">
-					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-					<p>Cakes</p>
-					<p>stuff about the thing</p>
-				</a>
+				<a href="product_page.php?name=cakes">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Cakes</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>
+			<div class="col-sm-4">
+				<a href="product_page.php?name=cupcakes">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Cupcakes</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>  
+			<div class="col-sm-4">
+				<a href="product_page.php?name=tarts">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Tarts</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
 		
 		</div><br>
 		
 		<div class="row">
 			<div class="col-sm-4">
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>
+				<a href="product_page.php?name=pies">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Pies</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>
+			<div class="col-sm-4">
+				<a href="product_page.php?name=brownies">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Brownies</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>  
+			<div class="col-sm-4">
+				<a href="product_page.php?name=breads">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Breads</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
 		
 		</div><br>
 		
 		<div class="row">
 			<div class="col-sm-4">
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>
+				<a href="product_page.php?name=scones">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Scones</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>
+			<div class="col-sm-4">
+				<a href="product_page.php?name=cookies">
+					<img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				</a>	
+					<h4 style="text-align:center; color:black;">Cookies</h4>
+					<p style="text-align:center;">stuff about the thing</p>
+				
 			</div>
-			<div class="col-sm-4"> 
-			  <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-			  <p>stuff</p>  
-			</div>
+		
 		
 		</div><br>
 	</div>	
@@ -112,9 +152,9 @@ include 'lib_functions.php';
 
 <?php
 
-	get_products();
+	//get_products();
 	echo '<br>';
-	get_flavors();
+	//get_flavors();
 
 	footer();
 

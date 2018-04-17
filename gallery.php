@@ -56,15 +56,15 @@ include 'lib_functions.php';
 	<br>
 	  <div class="row">
 			<div class="col-sm-4">
-					<img src="imgs/gallery_pics/image1.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image1.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 			
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image3.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image3.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image4.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image4.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
 		
@@ -72,15 +72,15 @@ include 'lib_functions.php';
 		
 		<div class="row">
 			<div class="col-sm-4">
-					<img src="imgs/gallery_pics/image5.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image5.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 			
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image6.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image6.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image7.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image7.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
 		
@@ -88,15 +88,15 @@ include 'lib_functions.php';
 		
 		<div class="row">
 			<div class="col-sm-4">
-					<img src="imgs/gallery_pics/image8.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image8.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 				
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image9.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image9.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
 			<div class="col-sm-4"> 
-					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image10.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 				
 			</div>
 		
@@ -104,10 +104,17 @@ include 'lib_functions.php';
 		
 		<div class="row">
 			<div class="col-sm-4">
-					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%" alt="Image">
+					<img src="imgs/gallery_pics/image11.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
 					
 			</div>
-			
+			<div class="col-sm-4"> 
+					<img src="imgs/gallery_pics/image12.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+					
+			</div>
+			<div class="col-sm-4"> 
+					<img src="imgs/gallery_pics/image13.JPG" class="img-responsive" style="width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Image">
+				
+			</div>
 		
 		</div><br>
 	</div>	

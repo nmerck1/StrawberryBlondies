@@ -4,7 +4,9 @@
 
 
 
-
+function protect($string){
+	return htmlspecialchars($string);
+}
 
 
 function import_bootstrap(){
@@ -61,7 +63,25 @@ function footer(){
 		</footer>';
 }
 
-
+function get_product_flavors(){
+	// create array to hold the flavors that each product can have
+	$products = array
+	  (
+			"Cakes"=>"Vanilla:Hazelnut",
+			"Cupcakes"=>"Vanilla:Hazelnut",
+			"Tarts"=>"Blueberry:Strawberry",
+			"Pies"=>"Blueberry:Strawberry", 
+			"Brownies"=>"Vanilla:Hazelnut",
+			"Breads"=>"Vanilla:Hazelnut",
+			"Scones"=>"Vanilla:Hazelnut",
+			"Cookies"=>"Vanilla:Hazelnut"
+	  );
+	  
+	  
+	  
+	  
+	  
+}
 
 
 
